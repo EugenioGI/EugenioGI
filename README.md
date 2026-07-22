@@ -38,10 +38,20 @@ Siempre busco aprender nuevas herramientas y enfrentar desafíos que me permitan
 </p>
 
 
-### Frameworks y Tecnologías
+### Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,react" />
+</p>
+
+### Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MediaPipe-Eye%20Tracking-0097A7?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### Herramientas
