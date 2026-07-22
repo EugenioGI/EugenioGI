@@ -34,8 +34,9 @@ Siempre busco aprender nuevas herramientas y enfrentar desafíos que me permitan
 ### Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,cs,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,kotlin,python,php,javascript,mysql" />
 </p>
+
 
 ### Frameworks y Tecnologías
 
