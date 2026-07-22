@@ -1,14 +1,14 @@
 <h1 align="center">¡Hola! 👋 Soy Eugenio González</h1>
 
 <h3 align="center">
-🎓 Software Engineering Student • 💻 Competitive Programmer • 📱 Android Developer
+🎓 Software Engineering Student • 💻 Competitive Programmer • 📱 Android Developer • 👨‍💻 Software Developer
 </h3>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de Ingeniería en Software con interés en el desarrollo de software, aplicaciones móviles y tecnologías backend.
+Soy estudiante de Licenciatura en Tecnologias de la Información con interés en el desarrollo de software, bases de datos, aplicaciones móviles y tecnologías backend.
 
 Actualmente complemento mi formación académica participando en programación competitiva (ICPC), donde he fortalecido mis habilidades para resolver problemas mediante algoritmos y estructuras de datos. Disfruto comprender los fundamentos detrás de cada solución y aplicar ese conocimiento para desarrollar software eficiente y de calidad.
 
@@ -23,6 +23,9 @@ Siempre busco aprender nuevas herramientas y enfrentar desafíos que me permitan
 - 🌐 Aprendiendo desarrollo Backend con .NET y C#
 - ⚛️ Aprendiendo React
 - 🔄 Profundizando en APIs REST, Git y Bases de Datos SQL
+- 🤖 Aprendiendo automatización de flujos de trabajo con n8n
+- 🐳 Aprendiendo contenedores con Docker
+- ☸️ Aprendiendo orquestación de contenedores con Kubernetes
 
 ---
 
